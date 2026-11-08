@@ -1,4 +1,4 @@
-/* SebaGhar temporary launch popup.
+/* Ansari SebaGhar temporary launch popup.
    Display schedule is calculated using India Standard Time (IST, UTC+05:30). */
 (() => {
   "use strict";

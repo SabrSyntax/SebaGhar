@@ -1,4 +1,4 @@
-// SebaGhar mobile navigation and small dynamic details
+// Ansari SebaGhar mobile navigation and small dynamic details
 const menuToggle = document.querySelector('.menu-toggle');
 const mainNav = document.querySelector('.main-nav');
 

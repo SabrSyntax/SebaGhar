@@ -1,10 +1,10 @@
-# SebaGhar | সেবাঘর
+# আনসারী সেবাঘর
 
 **Your Needs, Our Care.**
 
-SebaGhar is a responsive, Bengali-first website for a local multipurpose service centre operated under the existing business identity of **ANSARI DIGITAL WORLD**, with ANSARI INDIA as the Udyam enterprise name.
+Ansari SebaGhar is a responsive, Bengali-first website for a local multipurpose service centre operated under the existing business identity of **ANSARI DIGITAL WORLD**, with ANSARI INDIA as the Udyam enterprise name.
 
-The website introduces SebaGhar's digital services, everyday essentials, stationery, books, and other useful products. Its purpose is to make information about the business and its services easily accessible to customers across desktop and mobile devices.
+The website introduces Ansari SebaGhar's digital services, everyday essentials, stationery, books, and other useful products. Its purpose is to make information about the business and its services easily accessible to customers across desktop and mobile devices.
 
 **Live Website:** https://sebaghar.ansariindia.com
 
@@ -20,7 +20,7 @@ The website introduces SebaGhar's digital services, everyday essentials, station
 - **WhatsApp Channel Updates** — A prominent notice encourages visitors to follow the channel for service updates.
 - **Mobile Navigation** — An interactive navigation menu for smaller screens.
 - **Contact Information** — Quick access to the business phone number, email, website, and location information.
-- **Map Integration** — Business location on Google Maps.
+- **Future Map Integration** — A reserved section for adding an embedded Google Map when appropriate.
 - **Lightweight Architecture** — Built with standard HTML, CSS, and vanilla JavaScript without a frontend framework.
 
 ## 🛠️ Technology Stack
@@ -54,7 +54,7 @@ The website follows a simple visual system:
 - **Background:** White and light blue
 - **Typography:** Hind Siliguri for Bengali content and Inter for supporting text
 - **Layout:** Responsive sections, service cards, clear calls to action, and accessible navigation
-- **Branding:** Preserve the existing SebaGhar logo, brand identity, and established tagline.
+- **Branding:** Preserve the existing Ansari SebaGhar logo, brand identity, and established tagline.
 
 The design prioritises readability, usability, and a consistent experience across screen sizes.
 
@@ -79,13 +79,13 @@ Ensure that all required files and the `assets/` directory are committed to the 
 
 ## 📍 Business Information
 
-**Brand:** SebaGhar | সেবাঘর  
+**Brand:** আনসারী সেবাঘর  
 **Business:** ANSARI DIGITAL WORLD  
 **Udyam Enterprise:** ANSARI INDIA  
-**Website:** https://sebaghar.ansariindia.com  
-**Email:** sebaghar@ansariindia.com  
 **Phone:** +91 9091267274  
-**Location:** Alinagar, Bilaspur, Domkal, Murshidabad, West Bengal -742303, India
+**Email:** sebaghar@ansariindia.com  
+**Website:** https://sebaghar.ansariindia.com  
+**Location:** Alinagar, Bilaspur, Domkal, Murshidabad, West Bengal, India - 742303
 
 ## 📄 License
 
@@ -93,4 +93,4 @@ No open-source license has been specified for this repository. Unless a license 
 
 ---
 
-**SebaGhar — আপনার প্রয়োজনে, আপনার পাশে।**
+**আনসারী সেবাঘর — আপনার প্রয়োজনে, আপনার পাশে।**
