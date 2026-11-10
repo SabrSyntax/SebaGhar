@@ -79,7 +79,7 @@ Ensure that all required files and the `assets/` directory are committed to the 
 
 ## 📍 Business Information
 
-**Brand:** আনসারী সেবাঘর  
+**Brand:** Ansari Sebaghar  
 **Business:** ANSARI DIGITAL WORLD  
 **Udyam Enterprise:** ANSARI INDIA  
 **Phone:** +91 9091267274  
